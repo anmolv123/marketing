@@ -1,0 +1,45 @@
+.header{
+	background-color: #3097d1;;
+	padding: 1px;
+	text-align: left;
+	word-spacing: 20px;
+	width: 100%;
+	float: left;
+	color: white;
+}
+body{
+	background-color: #f5f8fa;
+}
+.main{
+	width: 100%;
+	float: left;
+}
+.section{
+	width: 30%;
+	float: left;
+	padding: 40px;
+
+}
+.s1,.s2,.s3{
+	background-color:white;
+	text-align: center;
+	width: 100%;
+	float: left;
+	padding-top: 10px;
+	
+}
+.center{
+	width: 40%;
+	float: left;
+	background-color: white;
+	padding: 20px;
+}
+.right{
+	background-color: white;
+	padding: 5px;
+	width: 20%;
+	float: right;
+}
+.s{vertical-align: middle;
+       margin-top: -25px;
+       position:relative;}
